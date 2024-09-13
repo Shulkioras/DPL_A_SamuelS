@@ -8,4 +8,4 @@ Ahora hacemos un "git status" y nos damos cuenta de que el archivo "tarea1_1.md"
 
 Ahora para hacer el commit inicial pondremos el siguiente comando: "git commit -m "mensaje para el commit".
 Si usamos "git log" podremos ver nuestro commit.
-Para guardar los cambios en nuestro repositorio remoto usaremos el mismo comando de antes "git add.".
+Para guardar los cambios en nuestro repositorio remoto usaremos el comando "git push".
