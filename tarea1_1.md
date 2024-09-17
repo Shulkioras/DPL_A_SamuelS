@@ -12,11 +12,14 @@ Hacemos un push con el comando "git push".
 
 Creamos el archivo gitignore con el comando "touch . gitignore", el txt llamado privado y la carpeta privada; lo subimos al repositorio con los comandos "git add .", "git commit -m "ignorar" y "git push". 
 
+![](/Fotos/gitignore.png)
+
+
 # Añadir fichero
 Creamos el fichero 1.txt y lo subimos al repositorio con "git add ." un commit "git commit -m "txt" y finalmente un push "git push"
 
 # TAG
-![](tag.png)
+![](/Fotos/tag.png)
 
 
 # Tabla compañeros
